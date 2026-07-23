@@ -13,7 +13,7 @@ football field, accretion/dilution, deal structure, implementation timeline.
 for CV and interview discussion purposes only. Not a real proposed deal
 and not investment advice.
 
-📄 **[Download the full pitch book (PDF)](./Nordlys_Klarna_Signicat_Pitchbook.pdf)** — click "Download" if it doesn't preview inline
+📄 **[Download the full pitch book (PDF)](https://raw.githubusercontent.com/paoloonardi/ma-pitchbook-klarna-signicat/main/Nordlys_Klarna_Signicat_Pitchbook.pdf)** — click to download
 
 ---
-Paolo — MSc Financial Engineering, Mälardalen University
+Paolo Nardi — MSc Financial Engineering, Mälardalen University
